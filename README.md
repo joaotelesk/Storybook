@@ -1,4 +1,4 @@
-# Projeto Guiado - ReactJS🚀
+# Projeto de Estudo - Storybook🚀
 
 ![image](https://media.giphy.com/media/eJS4WUQ7MkNKx3qxPN/giphy.gif)
 
@@ -18,7 +18,7 @@
 - Explore complementos e plugins do Storybook
 - Realize o deploy de seu projeto na vercel
 
-<!-- O site já está no ar e você pode acessar aqui: [Meu site pessoal](https://site-pessoal-react-eight.vercel.app/) -->
+O site já está no ar e você pode acessar aqui: [Storybook](https://storybook-topaz.vercel.app/?path=/docs/components-button--button-example)
 
 ---
 
@@ -30,12 +30,15 @@ O objetivo desse projeto é aprender a documentar front-end utilizando a ferrame
 
 ### `Tecnologias usadas`
 
-| Ferramenta | Descrição                                                             |
-| ---------- | --------------------------------------------------------------------- |
-| `ReactJS`  | framework web                                                         |
-| `npm`      | gerenciador de pacotes                                                |
-| `Vercel`   | Hospedagem para a aplicação, fiz o deploy integrado com o github      |
-| `Github`   | Hospedagem do código fonte integrado com gerenciador de versionamento |
+| Ferramenta          | Descrição                                                                                                                    |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| `ReactJS`           | framework web                                                                                                                |
+| `NextJS`            | é um framework de código aberto, criado com React e permite o desenvolvimento de aplicações tanto front-end quanto back-end. |
+| `styled-components` | é uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript.                                                  |
+| `storybook`         | é uma uma ferramenta de documentação de interfaces.                                                                          |
+| `yarn`              | gerenciador de pacotes                                                                                                       |
+| `Vercel`            | Hospedagem para a aplicação, fiz o deploy integrado com o github                                                             |
+| `Github`            | Hospedagem do código fonte integrado com gerenciador de versionamento                                                        |
 
 <br />
 <br />
@@ -44,12 +47,12 @@ O objetivo desse projeto é aprender a documentar front-end utilizando a ferrame
 
 Siga os passos e inclua as informações abaixo:
 
-| Passo                                                             | Comando/informação |
-| ----------------------------------------------------------------- | ------------------ |
-| Faça o fork                                                       | `botão de forkar`  |
-| Faça o clone via terminarl                                        | `git clone #URL`   |
-| Instale as dependências via terminal após acessar a pasta projeto | `npm i`            |
-| Rode o projeto                                                    | `npm run start`    |
+| Passo                                                             | Comando/informação           |
+| ----------------------------------------------------------------- | ---------------------------- |
+| Faça o fork                                                       | `botão de forkar`            |
+| Faça o clone via terminarl                                        | `git clone #URL`             |
+| Instale as dependências via terminal após acessar a pasta projeto | `yarn install`               |
+| Rode o projeto                                                    | `yarn dev && yarn storybook` |
 
 <br />
 <br />
