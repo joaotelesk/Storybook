@@ -1,0 +1,23 @@
+{
+  "name": "Storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaotelesk/Storybook.git",
+  "author": "Joao Teles <joaojoseteles@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^13.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "typescript": "4.9.3"
+  }
+}
